@@ -1,5 +1,4 @@
 ## 🌟​ About Me 🌟​
-<span style="color: red; font-family: Algerian; font-size: 60px;">PM</span>
 
 📚​ The Journey of Learning is Endless<br><br>📌 Backend Developer Specializing in PHP<br><br>• Skilled in building robust solutions using PHP, with expertise in Laravel framework.<br>• Proficient in managing databases with MySQL, SQLite, and phpMyAdmin.<br>• Experienced in setting up and maintaining environments using XAMPP and Apache.<br>• Passionate about crafting scalable, high-performance web applications and continuously expanding knowledge to stay ahead in the ever-evolving tech landscape.<br><br>
 
